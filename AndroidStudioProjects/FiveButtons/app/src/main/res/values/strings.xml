@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FiveButtons</string>
+    <string name="Button2">" inner class approach"</string>
+    <string name="Button4">anonymous inner class approach</string>
+    <string name="back">Go Back!</string>
+    <string name="Inner">Inner Class Button</string>
+    <string name="Anon">Anonymous Button</string>
+</resources>

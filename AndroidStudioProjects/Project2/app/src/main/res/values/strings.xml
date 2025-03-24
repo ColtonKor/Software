@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Project 2</string>
+    <string name="account">Create Account</string>
+    <string name="hold">Place Hold</string>
+    <string name="system">Manage System</string>
+    <string name="NewAcc">Create a Username and Password</string>
+    <string name="Enter">Create</string>
+    <string name="Error">There was an error!</string>
+    <string name="Exit">Return!</string>
+    <string name="Sign">Sign in</string>
+    <string name="Genre">Pick a Genre of Books</string>
+    <string name="Comp">Computer Science</string>
+    <string name="fic">Fiction</string>
+    <string name="meme">Memoir</string>
+    <string name="back">Return to Start</string>
+    <string name="Confirm">Hold this Book</string>
+    <string name="ok">Ok</string>
+    <string name="NewBook">Do you Want to Add a New Book</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="AdminBook">Please add the New Book</string>
+</resources>

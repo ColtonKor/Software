@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Bubble Homework/Bubble Homework.iml" filepath="$PROJECT_DIR$/Bubble Homework/Bubble Homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GameCar/GameCar.iml" filepath="$PROJECT_DIR$/GameCar/GameCar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework4/Homework4.iml" filepath="$PROJECT_DIR$/Homework4/Homework4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hw5/Hw5.iml" filepath="$PROJECT_DIR$/Hw5/Hw5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab3/Lab3.iml" filepath="$PROJECT_DIR$/Lab3/Lab3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab4/Lab4.iml" filepath="$PROJECT_DIR$/Lab4/Lab4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab5/Lab5.iml" filepath="$PROJECT_DIR$/Lab5/Lab5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab7/Lab7.iml" filepath="$PROJECT_DIR$/Lab7/Lab7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Project 1/Project 1.iml" filepath="$PROJECT_DIR$/Project 1/Project 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Quizzes/Quizzes.iml" filepath="$PROJECT_DIR$/Quizzes/Quizzes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SoftHouse/SoftHouse.iml" filepath="$PROJECT_DIR$/SoftHouse/SoftHouse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Whatever/Whatever.iml" filepath="$PROJECT_DIR$/Whatever/Whatever.iml" />
+    </modules>
+  </component>
+</project>

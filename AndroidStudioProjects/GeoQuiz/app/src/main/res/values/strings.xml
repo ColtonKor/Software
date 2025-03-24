@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="question_text">Canberra is the capital of Australia.</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">Correct</string>
+    <string name="incorrect_toast">Incorrect</string>
+    <string name="question_monterey">"Monterey is the biggest city in California. "</string>
+    <string name="question_yellow">Yellowstone is the oldest national park in the U.S.</string>
+    <string name="next_button">Next</string>
+    <string name="previous_button">Previous</string>
+    <string name="cal_cap">The Capital of California is Sacramento.</string>
+    <string name="florida">Florida is in the middle of the country.</string>
+    <string name="alaska">Alaska is the largest state in the USA.</string>
+    <string name="mountain">Mount Everest is the tallest mountain in the world.</string>
+    <string name="canada">Canada is a continent.</string>
+    <string name="add_task">Add Task</string>
+    <string name="view_qs">Manage Trivia</string>
+</resources>

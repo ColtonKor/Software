@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CipherHomework</string>
+    <string name="asdf">Enter Your Secret and Key:</string>
+    <string name="calc">CREATE SECRET!</string>
+    <string name="Page">Encrypted Message:</string>
+    <string name="back">Write Another Message</string>
+</resources>
